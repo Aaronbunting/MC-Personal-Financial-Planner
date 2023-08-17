@@ -5,7 +5,7 @@ Empower Your Financial Journey with the Personal Finance Planner
 ## Introduction
 Enter the world of prudent financial decision-making with the Personal Finance Planner. This Python script presents a comprehensive solution for visualizing your savings and investments, enabling you to make informed choices. By fetching real-time cryptocurrency and stock prices, it calculates the current value of your holdings and employs a Monte Carlo simulation to project the value of your stock and bond investments over the span of 30 years.
 
-## Getting Started
+## Backgroud
 Upon running the script, you'll be presented with:
 
 - The current valuation of your cryptocurrency and stock holdings
